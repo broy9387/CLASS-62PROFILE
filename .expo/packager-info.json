@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://ai-sut.broy007.quizmania-level3-main.exp.direct",
+  "packagerNgrokUrl": "https://packager.ai-sut.broy007.quizmania-level3-main.exp.direct",
+  "ngrokPid": 18012,
+  "webpackServerPort": 19007,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 14344
+}
